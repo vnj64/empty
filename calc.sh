@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo"hello bash"
+echo "hello bash"
